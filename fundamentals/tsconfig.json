@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "system",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outFile": "index.js",
+        "target": "ESNEXT"
+    },
+    "include": ["src/*"]
+}
